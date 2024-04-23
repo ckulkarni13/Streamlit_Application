@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1_8zXmNa7ZF_rCjJm8NftBkVT5_qaL6_b
 """
 
-!pip install scikit-learn==1.4.1.post1
+#!pip install scikit-learn==1.4.1.post1
 
 import matplotlib.pyplot as plt
 import seaborn as sns
